@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyDialog</string>
+    <string name="shoe_progress">show progress</string>
+    <string name="show_alert">show alert</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello</string>
+</resources>
